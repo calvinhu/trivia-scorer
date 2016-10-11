@@ -1,0 +1,4 @@
+export const CHANGE_TEAMS = 'CHANGE_TEAMS';
+export const CHANGE_SETS = 'CHANGE_SETS';
+export const CHANGE_ROUNDS = 'CHANGE_ROUNDS';
+export const CHANGE_QUESTIONS = 'CHANGE_QUESTIONS';

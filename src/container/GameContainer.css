@@ -1,0 +1,18 @@
+.GameContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.QuestionsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.GameContainer .teamNumber {
+  width: 30px;
+}
+.GameContainer .teamName {
+  max-width: 250px;
+  margin: 0 10px;
+}

@@ -1,0 +1,11 @@
+.GameSet {
+  flex: 1;
+}
+
+.GameSetContainer {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  border-radius: 3px;
+  background-color: #f1f1f1;
+}
